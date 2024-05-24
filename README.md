@@ -1,0 +1,2 @@
+# SolanaTradingBot
+SOL trading bot
